@@ -39,7 +39,7 @@ La aplicación utiliza la [API pública de MangaDex](https://api.mangadex.org/do
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu_usuario/nombre_de_tu_repositorio.git](https://github.com/tu_usuario/nombre_de_tu_repositorio.git)
+    git clone [https://github.com/fabricioriosexe/mangaapp.git]
     ```
 2.  **Abre el proyecto en Android Studio.**
 3.  **Sincroniza el proyecto con los archivos Gradle:** Android Studio debería hacerlo automáticamente.
