@@ -1,6 +1,6 @@
 ![logo_mng1](https://github.com/user-attachments/assets/74beae5a-96f7-4c8c-9e68-5dc8976d032f)# MangaApp
 
-![App Icon]() Una aplicación de Android para buscar y visualizar información sobre mangas, incluyendo detalles y listas de capítulos, utilizando la API de MangaDex.
+Una aplicación de Android para buscar y visualizar información sobre mangas, incluyendo detalles y listas de capítulos, utilizando la API de MangaDex.
 
 ## Características
 
@@ -69,10 +69,10 @@ La aplicación utiliza la [API pública de MangaDex](https://api.mangadex.org/do
 
 ## Capturas de Pantalla
 
-![Screenshot 1: Search Screen](link/a/captura1.png)
-![Screenshot 2: Detail Screen](link/a/captura2.png)
-![Screenshot 3: Reader Screen](link/a/captura3.png)
-
+![Screenshot 1:](https://i.postimg.cc/kMb01TTd/screen.png)
+![Screenshot 2:](https://i.postimg.cc/xTGWYcrx/screen-2.png)
+![Screenshot 3:](https://i.postimg.cc/MKJhh1Lf/screen-3.png)
+![Screenshot 4:](https://i.postimg.cc/Dw2Rznn2/screen-4.png)
 
 ## Contribución
 
